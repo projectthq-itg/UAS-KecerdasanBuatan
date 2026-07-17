@@ -365,15 +365,16 @@ Proyek ini berhasil mengimplementasikan dua algoritma machine learning untuk mem
 
 # 9. Referensi
 
-1. Kohsasih, K. L., Sunario, D. S., Alvin, A., & Laurendio, F. (2025). Enhancing early heart disease detection through comparative analysis of random forest, decision tree, and K-NN models. *IT Journal Research and Development, 10*(2), 66–77. https://doi.org/10.25299/itjrd.2025.24703
 
-2. Muttakin, M., Rusmana, N. R., & Ramadhani, D. (2025). Analisis perbandingan algoritma decision tree, random forest, KNN, dan SVM dalam prediksi penyakit jantung. *Journal of System & Technology (SYSTEC), 1*(2), 35–42. https://systec.ejournal.unri.ac.id/index.php/systec/article/view/18
+1. Kohsasih, K. L., Sunario, D. S., Alvin, A., & Laurendio, F. (2025). Enhancing early heart disease detection through comparative analysis of random forest, decision tree, and K-NN models. *IT Journal Research and Development, 10*(2), 66–77. [https://journal.uir.ac.id/index.php/ITJRD/article/view/24703](https://journal.uir.ac.id/index.php/ITJRD/article/view/24703)
 
-3. Coronary heart disease prediction: A comparative study of machine learning algorithms. (2024). *Journal of Advances in Information Technology, 15*(1), 27–32. https://doi.org/10.12720/jait.15.1.27-32
+2. Muttakin, M., Rusmana, N. R., & Ramadhani, D. (2025). Analisis perbandingan algoritma decision tree, random forest, KNN, dan SVM dalam prediksi penyakit jantung. *Journal of System & Technology (SYSTEC), 1*(2), 35–42. [https://systec.ejournal.unri.ac.id/index.php/systec/article/view/18](https://systec.ejournal.unri.ac.id/index.php/systec/article/view/18)
 
-4. Balhaf, K., Munassar, N. A., & Akoosh, L. M. S. (2025). Performance evaluation of machine learning algorithms for heart disease prediction using real-world data from Yemen. *2025 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA)*, 1–7. https://doi.org/10.1109/ACDSA65407.2025.11166082
+3. Regen, R., & Setiawan, H. (2024). Advancing cardiovascular risk prediction: A review of machine learning models and their clinical potential. *Journal of Electrical Technology UMY, 8*(2). [https://journal.umy.ac.id/index.php/jet/article/view/25208](https://journal.umy.ac.id/index.php/jet/article/view/25208)
 
-5. Regen, R., & Setiawan, H. (2024). Advancing cardiovascular risk prediction: A review of machine learning models and their clinical potential. *Journal of Electrical Technology UMY, 8*(2). https://journal.umy.ac.id/index.php/jet/article/view/25208
+4. Aznur, F., Merdijaya, P., & Hidayaturrohman, Q. A. (2025). Komparasi performansi model machine learning untuk prediksi readmisi pasien gagal jantung. *J-ICT (Journal of Informatics and Computer Technology)*. [https://ejournal.akademitelkom.ac.id/j_ict/index.php/j_ict/article/view/398](https://ejournal.akademitelkom.ac.id/j_ict/index.php/j_ict/article/view/398)
+
+5. Coronary heart disease prediction: A comparative study of machine learning algorithms. (2024). *Journal of Advances in Information Technology, 15*(1), 27–32. [https://www.jait.us/show-235-1467-1.html](https://www.jait.us/show-235-1467-1.html)
 
 ---
 
