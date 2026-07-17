@@ -7,20 +7,19 @@
 
 # LAPORAN UJIAN AKHIR SEMESTER
 ## KECERDASAN BUATAN
-
 ### Prediksi Penyakit Jantung Menggunakan Algoritma Decision Tree dan K-Nearest Neighbor (KNN)
 
 ![Logo ITG](https://elearning.itg.ac.id/upload/logo/1634978306logo-putih-itg-512.png)
 
 **Disusun oleh:**  
 Moch Azriel Naufan H (2406046)  
-Muhamad Thoriq Mustaqim (2406045)
+Muhamad Thor!q Mustaq!m (2406045)
 
 
 
 
 **Dosen Pengampu:**  
-[Nama Dosen Pengampu]
+ Leni Fitriani, M.Kom.
 
 **PROGRAM STUDI TEKNIK INFORMATIKA**  
 **INSTITUT TEKNOLOGI GARUT**  
@@ -37,10 +36,6 @@ Muhamad Thoriq Mustaqim (2406045)
 # 1. Judul Proyek
 
 **Prediksi Penyakit Jantung Menggunakan Algoritma Decision Tree dan K-Nearest Neighbor (KNN)**
-
-**Nama Kelompok:**  
-- Moch Azriel Naufan H (2406046)  
-- Muhamad Thoriq Mustaqim (2406045)
 
 **Domain Proyek (Latar Belakang)**
 
@@ -420,7 +415,7 @@ Tersedia di folder `data/Jurnal/` (jurnal1.pdf – jurnal5.pdf).
 
 **Disusun oleh:**  
 Moch Azriel Naufan H (2406046)  
-Muhamad Thoriq Mustaqim (2406045)
+Muhamad Thor!q Mustaqim (2406045)
 
 **Institut Teknologi Garut**  
 2026
