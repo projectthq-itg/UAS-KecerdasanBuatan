@@ -82,11 +82,15 @@ pip install pandas numpy matplotlib seaborn scikit-learn joblib
 - Upload dataset `heart_disease.csv` ke environment.
 - Jalankan semua *cell* secara berurutan.
 
-Atau langsung jalankan di Colab dengan klik tombol di bawah:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/UAS-KecerdasanBuatan/blob/main/uas_model.ipynb)
 
 ---
+
+## 👥 Tim Penyusun
+
+| Nama | NIM | Peran |
+|------|-----|-------|
+| Moch Azriel Naufan H | 2406046 | Data Preparation & Modeling |
+| Muhamad Thor!q Mustaqim | 2406045 | Evaluation & Analisis Hasil |
 
 ## 📈 Hasil Evaluasi
 
@@ -107,14 +111,7 @@ Atau langsung jalankan di Colab dengan klik tombol di bawah:
 4. Balhaf, K., et al. (2025). *IEEE Xplore*. [DOI](https://doi.org/10.1109/ACDSA65407.2025.11166082)
 5. Regen, R., & Setiawan, H. (2024). *Journal of Electrical Technology UMY*. [Link](https://journal.umy.ac.id/index.php/jet/article/view/25208)
 
----
 
-## 👥 Tim Penyusun
-
-| Nama | NIM | Peran |
-|------|-----|-------|
-| Moch Azriel Naufan H | 2406046 | Data Preparation & Modeling |
-| Muhamad Thoriq Mustaqim | 2406045 | Evaluation & Analisis Hasil |
 
 ---
 
