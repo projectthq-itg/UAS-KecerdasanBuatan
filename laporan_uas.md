@@ -195,7 +195,7 @@
 
 <div class="cover">
 
-![Logo ITG](https://itg.ac.id/asset/img/logo-itg.png)
+![Logo ITG](https://elearning.itg.ac.id/upload/logo/1634978306logo-putih-itg-512.png)
 
 <h1>LAPORAN UJIAN AKHIR SEMESTER</h1>
 <h1>MATA KULIAH KECERDASAN BUATAN</h1>
