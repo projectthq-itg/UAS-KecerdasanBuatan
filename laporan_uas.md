@@ -146,19 +146,19 @@ Dari gambar terlihat bahwa data relatif seimbang antara kelas tidak sakit (220) 
 
 ### 4.1.2 Distribusi Usia
 
-![Distribusi Usia](distribusi_usia.png)
+![Distribusi Usia](https://github.com/projectthq-itg/UAS-KecerdasanBuatan/blob/main/gambar/diagram2.png?raw=true)
 
 Pasien dengan penyakit jantung cenderung berusia lebih tua (rata-rata 55-60 tahun) dibandingkan yang tidak sakit.
 
 ### 4.1.3 Distribusi Jenis Kelamin
 
-![Distribusi Sex](distribusi_sex.png)
+![Distribusi Sex](https://github.com/projectthq-itg/UAS-KecerdasanBuatan/blob/main/gambar/diagram3.png?raw=true)
 
 Mayoritas pasien adalah pria (sekitar 68%).
 
 ## 4.2 Analisis Korelasi Antar Fitur
 
-![Heatmap Korelasi](heatmap_korelasi.png)
+![Heatmap Korelasi](https://github.com/projectthq-itg/UAS-KecerdasanBuatan/blob/main/gambar/diagram4.png?raw=true)
 
 Dari heatmap, fitur yang berkorelasi positif tinggi dengan target adalah `ca` (0.48), `oldpeak` (0.48), `cp` (0.38), `exang` (0.36), dan `slope` (0.36). Fitur `thalach` memiliki korelasi negatif (-0.39).
 
@@ -284,7 +284,7 @@ KNN memberikan akurasi lebih tinggi dibandingkan Decision Tree pada dataset ini.
 
 ## 6.4 Visualisasi Model (Decision Tree)
 
-![Decision Tree](decision_tree_visualization.png)
+![Decision Tree](https://github.com/projectthq-itg/UAS-KecerdasanBuatan/blob/main/gambar/Screenshot%202026-07-17%20222301.png?raw=true)
 
 Pohon keputusan menunjukkan bahwa fitur `oldpeak`, `cp`, dan `thalach` menjadi node penting dalam pengambilan keputusan.
 
