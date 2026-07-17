@@ -140,7 +140,7 @@ Berikut adalah visualisasi distribusi data yang dilakukan:
 
 ### 4.1.1 Distribusi Target
 
-![Distribusi Target](distribusi_target.png)
+![Distribusi Target](https://github.com/projectthq-itg/UAS-KecerdasanBuatan/blob/main/gambar/diagram1.png?raw=true)
 
 Dari gambar terlihat bahwa data relatif seimbang antara kelas tidak sakit (220) dan sakit (83), meskipun terdapat ketidakseimbangan (72.6% tidak sakit vs 27.4% sakit).
 
