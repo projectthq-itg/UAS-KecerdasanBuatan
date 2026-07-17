@@ -105,12 +105,15 @@ pip install pandas numpy matplotlib seaborn scikit-learn joblib
 
 ## 📚 Referensi Jurnal
 
-1. Kohsasih, K. L., et al. (2025). *IT Journal Research and Development*. [DOI](https://doi.org/10.25299/itjrd.2025.24703)
-2. Muttakin, M., et al. (2025). *Journal of System & Technology (SYSTEC)*. [Link](https://systec.ejournal.unri.ac.id/index.php/systec/article/view/18)
-3. Coronary heart disease prediction (2024). *Journal of Advances in Information Technology*. [DOI](https://doi.org/10.12720/jait.15.1.27-32)
-4. Balhaf, K., et al. (2025). *IEEE Xplore*. [DOI](https://doi.org/10.1109/ACDSA65407.2025.11166082)
-5. Regen, R., & Setiawan, H. (2024). *Journal of Electrical Technology UMY*. [Link](https://journal.umy.ac.id/index.php/jet/article/view/25208)
+1. Kohsasih, K. L., Sunario, D. S., Alvin, A., & Laurendio, F. (2025). Enhancing early heart disease detection through comparative analysis of random forest, decision tree, and K-NN models. *IT Journal Research and Development, 10*(2), 66–77. [https://journal.uir.ac.id/index.php/ITJRD/article/view/24703](https://journal.uir.ac.id/index.php/ITJRD/article/view/24703)
 
+2. Muttakin, M., Rusmana, N. R., & Ramadhani, D. (2025). Analisis perbandingan algoritma decision tree, random forest, KNN, dan SVM dalam prediksi penyakit jantung. *Journal of System & Technology (SYSTEC), 1*(2), 35–42. [https://systec.ejournal.unri.ac.id/index.php/systec/article/view/18](https://systec.ejournal.unri.ac.id/index.php/systec/article/view/18)
+
+3. Regen, R., & Setiawan, H. (2024). Advancing cardiovascular risk prediction: A review of machine learning models and their clinical potential. *Journal of Electrical Technology UMY, 8*(2). [https://journal.umy.ac.id/index.php/jet/article/view/25208](https://journal.umy.ac.id/index.php/jet/article/view/25208)
+
+4. Aznur, F., Merdijaya, P., & Hidayaturrohman, Q. A. (2025). Komparasi performansi model machine learning untuk prediksi readmisi pasien gagal jantung. *J-ICT (Journal of Informatics and Computer Technology)*. [https://ejournal.akademitelkom.ac.id/j_ict/index.php/j_ict/article/view/398](https://ejournal.akademitelkom.ac.id/j_ict/index.php/j_ict/article/view/398)
+
+5. Coronary heart disease prediction: A comparative study of machine learning algorithms. (2024). *Journal of Advances in Information Technology, 15*(1), 27–32. [https://www.jait.us/show-235-1467-1.html](https://www.jait.us/show-235-1467-1.html)
 
 
 ---
@@ -130,5 +133,5 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 ---
 
 <div align="center">
-  <sub>Dibuat dengan ❤️ oleh Tim Kecerdasan Buatan - Institut Teknologi Garut</sub>
+  <sub>Dibuat dengan ❤️ oleh Tim PGNI  - Pemuda Gacor-Nya ITG</sub>
 </div>
