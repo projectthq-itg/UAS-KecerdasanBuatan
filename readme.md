@@ -31,13 +31,13 @@ UAS-KecerdasanBuatan/
 ├── data/
 │   ├── heart_disease.csv     ← Dataset asli
 │   └── Jurnal/               ← 5 referensi jurnal (PDF)
-├── dist/                     ← Gambar hasil plotting (opsional)
-│   ├── distribusi_target.png
-│   ├── distribusi_usia.png
-│   ├── heatmap_korelasi.png
-│   ├── confusion_matrix.png
-│   └── decision_tree_visualization.png
-└── .gitignore
+├── gambar/                     ← Gambar hasil plotting (opsional)
+    ├── distribusi_target.png
+    ├── distribusi_usia.png
+    ├── heatmap_korelasi.png
+    ├── confusion_matrix.png
+    └── decision_tree_visualization.png
+
 ```
 
 ---
